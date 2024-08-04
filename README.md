@@ -7,7 +7,8 @@
 -->
 Hello! I'm Matteo Mosangini, a passionate Physics teacher with a diverse range of interests that span across photography, electronics, computer science, and astronomy. I believe in the power of integrating technology and hands-on learning to make science both engaging and accessible.
 
-My Interests
+My Interests:
+
 📷 Photography
 Photography is a perfect blend of art and science. I enjoy capturing the beauty of the world through my lens, and often use photography to illustrate key physics concepts like light refraction, reflection, and the principles of optics. 
 
